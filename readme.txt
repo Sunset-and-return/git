@@ -23,3 +23,4 @@ function $(){
 					}
 }
 document.write('<input id="c"><button onclick=$()>Ok</button>');delete _
+路线1
